@@ -1,51 +1,56 @@
 ![Alt Text](https://github.com/rhondachill/rhondachill.github.io/blob/master/Portfolio/Content/rhbanneranim.svg)
 
-Hey👋🏾, I'm Rhonda! I am an IT Business Solutions Analyst, Web Developer, Designer and Content Creator based in New York. I have been working in the Information Technology industry for over a decade. I am passionate about developing creative solutions for web and mobile applications. Developer MVP for <a href="https://github.com/fitbit/Fitbit">Fitbit</a>. When I'm not creating or breaking stuff you can find me playing Pokémon Go and Animal Crossing. Welcome to my Github page.
+<i>🩷 She/Her</i> 
+  
+👋🏾 Hi! I’m an Enterprise Solutions Engineer based in New York with over a decade of experience in Information Technology. I specialize in building creative, scalable solutions for web and mobile applications. Beyond my enterprise work, I explore augmented reality and AI-driven creative development through independent AR experiences across emerging platforms. I’ve been recognized as a Developer MVP for <a href="https://github.com/fitbit/Fitbit">Fitbit</a>/Google, a Meta Spark AR Creator, and a Snap Creator.
 
-### Latest work:
----
-Check out my <a href="https://www.instagram.com/ar/719812415530951/"> **CodingLife** </a>filter for **Instagram**!</br>
-My **Fitbit** clocks can be found <a href="https://gallery.fitbit.com/developer/53dd2036-6cee-4f35-b94e-003c31d531a1"/> **here**</a>.</br>
+Outside of work, I enjoy traveling, cooking, reading, and catching up on my favorite shows.
 
 <details>
-<summary><strong>What I am learning:</strong></summary></br>
+<summary><strong>Areas of Focus</strong></summary></br>
 <ul>
 
-❤️ Amazon Web Services </br>
-🧡 Actions for Google Assistant</br>
-💛 Back-End Architecture (Databases and Web API)</br>
-💚 Building Microsoft 365 Solutions for Office and SharePoint </br>
-💙 Designing, Developing & Implementing Systems & Apps for Business Solutions</br>
-💜 .NET Framework</br>
-🖤 React Native Development </br>
+❤️ Cloud Architecture & Infrastructure (AWS)</br>
+🧡 Applied AI & Copilot Solutions (Google Gemini | Microsoft 365 Copilot)</br>
+💛 Enterprise Systems Architecture (Databases, APIs & Integrations)</br>
+💚 Microsoft 365 Engineering (SharePoint, Teams, Power Platform, OneDrive)</br>
+💙 ServiceNow (ITSM, CMDB, Flow Designer, Automation)</br>
+💜 .NET & Business Application Development (C#)</br>
+🖤 Intranet & Web Content Management (.NET / SQL Server)</br>
+🤍 IT Operations (Hardware Support, Reimaging, Software Deployment)</br>
+🤎 Process Optimization & New Technology Innovation</br>
 </ul>
 </details>
 
-### Get in touch:
----
-Personal Site: <a href="https://www.rhondahill.dev/">rhondahill.dev</a></br>
-Instagram: <a href="http://instagram.com/rhondanovah">@rhondanovah</a></br>
-Twitter: <a href="http://twitter.com/rhondanovah">@rhondanovah</a>
 
 <details>
-<summary><strong>Other spaces I hang out:</strong></summary></br>
+<summary><strong>Projects</strong></summary></br>
 <ul>
+  
+❤️ **CodingLife** </a>filter for **Instagram** (Retired)</br>
+🧡 My **Fitbit** clock themes can be found <a href="https://gallery.fitbit.com/developer/53dd2036-6cee-4f35-b94e-003c31d531a1"/> **here**</a>.</br></ul></details>
 
-❤️<a href="https://dev.to/rhondanovah">CodePen</a></br>
-🧡<a href="https://codepen.io/rhondanovah">DEV</a></br>
-
+<details>
+<summary><strong>Connect</strong></summary></br>
+<ul>
+  
+❤️ Instagram: <a href="http://instagram.com/rhondanovah">@rhondanovah</a></br>
+🧡 Twitter: <a href="http://twitter.com/rhondanovah">@rhondanovah</a></br>
+💛 Dev: <a href="https://dev.to/rhondanovah">CodePen</a></br>
+💚 Codepen.io <a href="https://codepen.io/rhondanovah">DEV</a></br>
 </ul>
 </details>
 
-### Ask me about:
----
+
 <details>
-<summary><strong>Topics:</strong></summary></br>
+<summary><strong>Ask Me About</strong></summary></br>
 <ul>
 
-🤎 Diversity and Inclusion in Tech **#BlackLivesMatter**</a></br>
-💛 Web Development</a></br>
-💚 Mobile Device Managaement (Android & iOS)</a></br>
+❤️ Microsoft 365 Suite </a></br>
+🧡 ServiceNow Administration</a></br>
+💛 Web Content Management</a></br>
+💚 Artifical Intelligence - Chatbots and Agents </a></br>
+💙 Mobile Device Managaement (Android & iOS)</a></br>
 
 </ul>
 </details>
@@ -62,6 +67,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+d
 - ⚡ Fun fact: ...
 -->
